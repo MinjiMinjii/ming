@@ -110,6 +110,8 @@ void CPicture::OnPaint()
 	bitmap.DeleteObject();
 	memDC.DeleteDC();
 
+	//zzzz
+
 }
 
 
